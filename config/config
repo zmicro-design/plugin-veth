@@ -1,0 +1,7 @@
+export PLUGIN_VETH_NAME=veth
+
+export NETWORK_BRIDGE=zmicro-vbridge
+export NETWORK_NAMESPACE=zmicro
+# @TODO
+export NETWORK_MASK=10.8.8.0/24
+export NETWORK_GATEWAY=10.8.8.1
